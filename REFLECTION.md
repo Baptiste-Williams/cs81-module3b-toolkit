@@ -14,3 +14,7 @@ I thought It would; Im also tired, so that may have something to do with it...
 I feel that this kind of toolkit could be used in like a calculator app or anything that would 
 need to do some math calculations. it felt some what simple, but i could defenitly see 
 how it could end up being more difficult. 
+
+
+### my reflection ###
+Now my mind is jogging, It would be really cool to create my own calculator!! I mean I feel like im pretty much there. 
